@@ -1,0 +1,35 @@
+{
+  "name": "node-record-lpcm16-ts",
+  "author": "zach.dev + Gilles De Mey",
+  "version": "1.0.0",
+  "description": "Record a microphone input stream... in Typescript",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "dependencies": {
+    "debug": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.12",
+    "@types/node": "^22.5.4",
+    "standard": "^13.0.2",
+    "typescript": "^5.5.4"
+  },
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "test": "standard"
+  },
+  "keywords": [
+    "sox",
+    "audio",
+    "speech",
+    "record"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zcaceres/node-record-lpcm16-ts"
+  },
+  "bugs": {
+    "url": "https://github.com/zcaceres/node-record-lpcm16-ts/issues"
+  },
+  "homepage": "https://github.com/zcaceres/node-record-lpcm16-ts"
+}
