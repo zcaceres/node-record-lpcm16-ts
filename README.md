@@ -128,4 +128,3 @@ DEBUG=record node your-script.js
 ## License
 
 This project is licensed under the ISC License copywritten by the original author [Gilles de Mey](https://github.com/gillesdemey)
-```
