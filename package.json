@@ -11,12 +11,10 @@
   "devDependencies": {
     "@types/debug": "^4.1.12",
     "@types/node": "^22.5.4",
-    "standard": "^13.0.2",
     "typescript": "^5.5.4"
   },
   "scripts": {
-    "build": "tsc --project tsconfig.json",
-    "test": "standard"
+    "build": "tsc --project tsconfig.json"
   },
   "keywords": [
     "sox",

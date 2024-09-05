@@ -1,4 +1,4 @@
-import { RecorderResult, RecordingOptions } from "src/definitions";
+import { RecorderResult, RecordingOptions } from "../types";
 import recRecorder from "./rec";
 import arecordRecorder from "./arecord";
 import soxRecorder from "./sox";

@@ -1,4 +1,4 @@
-import { RecorderResult, RecordingOptions } from "src/definitions";
+import { RecorderResult, RecordingOptions } from "../types";
 
 const recRecorder = (options: RecordingOptions): RecorderResult => {
   const cmd = "rec";
