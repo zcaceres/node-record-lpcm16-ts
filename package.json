@@ -5,6 +5,7 @@
   "description": "Record a microphone input stream... in Typescript",
   "license": "ISC",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "dependencies": {
     "debug": "^4.3.6"
   },
